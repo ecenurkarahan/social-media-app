@@ -1,0 +1,16 @@
+[05/21/2023 at 06:50 ÖS][ERROR] User didn't fill the required areas while loggin in
+[05/21/2023 at 06:55 ÖS][ERROR] User didn't fill the required areas while loggin in
+[05/21/2023 at 06:55 ÖS][ERROR] User didn't fill the required areas while loggin in
+[05/21/2023 at 06:55 ÖS][ERROR] User didn't fill the required areas while loggin in
+[05/21/2023 at 06:55 ÖS][ERROR] Password is written wrong by the user with nickname:ecenurkarahan
+[05/21/2023 at 08:13 ÖS][ERROR] There is no user with nicknameecenurkaraha
+[05/22/2023 at 07:18 ÖS][ERROR] Password is written wrong by the user with nickname:admin
+[05/26/2023 at 11:33 ÖÖ][ERROR] User write a non numeric age while editing infos
+[05/26/2023 at 11:39 ÖÖ][ERROR] Error in setting the filter level: user didnt entered a convenient filter level
+[05/26/2023 at 11:41 ÖÖ][ERROR] Password is written wrong by the user with nickname:admin
+[05/26/2023 at 11:41 ÖÖ][ERROR] User didn't fill the required areas while loggin in
+[05/26/2023 at 11:45 ÖÖ][ERROR] User didn't write convenient email adress while signing in
+[05/26/2023 at 11:45 ÖÖ][ERROR] User didn't write convenient email adress while signing in
+[05/26/2023 at 11:45 ÖÖ][ERROR] User didn't write convenient email adress while signing in
+[05/26/2023 at 11:46 ÖÖ][ERROR] User didn't write convenient email adress while signing in
+[05/29/2023 at 03:56 ÖS][ERROR] User didn't write a password long enough while signing in

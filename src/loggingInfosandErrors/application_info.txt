@@ -1,0 +1,378 @@
+[05/21/2023 at 06:55 ÖS][INFO] User with nickname :ecenurkarahan succesfully logged into application!
+[05/21/2023 at 08:13 ÖS][INFO] User with nickname :ecenurkarahan succesfully logged into application!
+[05/21/2023 at 08:13 ÖS][INFO] User is redirected to the discover page from his/her profile page.
+[05/21/2023 at 08:13 ÖS][INFO] User is redirected to the shared photo of the other user
+[05/21/2023 at 08:13 ÖS][INFO] User is redirected to the profile page of the user who shared the photo from reviewing photo page!
+[05/21/2023 at 08:13 ÖS][INFO] Profile page of the other user is closed and user is redirected to the discover page 
+[05/21/2023 at 08:13 ÖS][INFO] User is redirected to the shared photo of the other user
+[05/21/2023 at 08:13 ÖS][INFO] User is redirected to the profile page of the user who shared the photo from reviewing photo page!
+[05/21/2023 at 08:13 ÖS][INFO] User is redirected to the shared photo of the some other user
+[05/21/2023 at 08:13 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/21/2023 at 08:13 ÖS][INFO] Profile page of the other user is closed and user is redirected to the discover page 
+[05/21/2023 at 08:13 ÖS][INFO] User is redirected to the shared photo of the other user
+[05/21/2023 at 08:13 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/21/2023 at 11:28 ÖS][INFO] User with nickname :admin succesfully logged into application!
+[05/21/2023 at 11:29 ÖS][INFO] User is redirected to the discover page from his/her profile page.
+[05/21/2023 at 11:29 ÖS][INFO] User is redirected to the shared photo of the other user
+[05/21/2023 at 11:29 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/21/2023 at 11:29 ÖS][INFO] User is redirected to the shared photo of the other user
+[05/21/2023 at 11:29 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/21/2023 at 11:29 ÖS][INFO] User is redirected to the shared photo of the other user
+[05/21/2023 at 11:29 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/21/2023 at 11:32 ÖS][INFO] User with nickname :admin succesfully logged into application!
+[05/21/2023 at 11:32 ÖS][INFO] User is redirected to the discover page from his/her profile page.
+[05/21/2023 at 11:32 ÖS][INFO] Admin user is redirected to the shared photo of the other user
+[05/21/2023 at 11:32 ÖS][INFO] User's photo is removed from the whole app by administator.
+[05/21/2023 at 11:32 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/21/2023 at 11:32 ÖS][INFO] Admin user is redirected to the shared photo of the other user
+[05/21/2023 at 11:32 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/21/2023 at 11:32 ÖS][INFO] Admin user is redirected to the shared photo of the other user
+[05/21/2023 at 11:32 ÖS][INFO] User is redirected to the profile page of the user who shared the photo from reviewing photo page!
+[05/21/2023 at 11:32 ÖS][INFO] Admin user is redirected to the shared photo of the other user
+[05/21/2023 at 11:32 ÖS][INFO] User is redirected to the shared photo of the some other user
+[05/21/2023 at 11:32 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/21/2023 at 11:32 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/21/2023 at 11:32 ÖS][INFO] Profile page of the other user is closed and user is redirected to the discover page 
+[05/21/2023 at 11:32 ÖS][INFO] Admin user is redirected to the shared photo of the other user
+[05/21/2023 at 11:33 ÖS][INFO] User with nickname :ecenurkarahan succesfully logged into application!
+[05/21/2023 at 11:33 ÖS][INFO] User is redirected to the discover page from his/her profile page.
+[05/21/2023 at 11:34 ÖS][INFO] User is redirected to the shared photo of the other user
+[05/21/2023 at 11:34 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/21/2023 at 11:34 ÖS][INFO] User is redirected to the shared photo of the other user
+[05/21/2023 at 11:34 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/21/2023 at 11:34 ÖS][INFO] User is redirected to the sharing page from discover page!
+[05/21/2023 at 11:34 ÖS][INFO] Filter level is setted!
+[05/21/2023 at 11:34 ÖS][INFO] Blurring filter applied to \yavrukedi2.pngfile, took: 313.9843ms
+[05/21/2023 at 11:34 ÖS][INFO] Image is shared successfully by user with nickname ecenurkarahan
+[05/21/2023 at 11:34 ÖS][INFO] User is redirected to the discover page from his/her profile page.
+[05/21/2023 at 11:35 ÖS][INFO] User is redirected to the shared photo of the other user
+[05/21/2023 at 11:35 ÖS][INFO] User is redirected to the profile page of the user who shared the photo from reviewing photo page!
+[05/21/2023 at 11:35 ÖS][INFO] User is redirected to the shared photo of the some other user
+[05/21/2023 at 11:35 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/21/2023 at 11:35 ÖS][INFO] Profile page of the other user is closed and user is redirected to the discover page 
+[05/21/2023 at 11:35 ÖS][INFO] User is redirected to the his/her profile page!
+[05/21/2023 at 11:35 ÖS][INFO] User with nickname ecenurkarahan logged out from the app
+[05/22/2023 at 07:03 ÖS][INFO] User with nickname :ecenurkarahan succesfully logged into application!
+[05/22/2023 at 07:03 ÖS][INFO] User is redirected review page of his/her own photo.
+[05/22/2023 at 07:03 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/22/2023 at 07:03 ÖS][INFO] User is redirected to the discover page from his/her profile page.
+[05/22/2023 at 07:03 ÖS][INFO] User is redirected to the his/her profile page!
+[05/22/2023 at 07:03 ÖS][INFO] User's photo is removed from his/her profile page.
+[05/22/2023 at 07:03 ÖS][INFO] User is redirected to the discover page from his/her profile page.
+[05/22/2023 at 07:03 ÖS][INFO] User is redirected to the his/her profile page!
+[05/22/2023 at 07:03 ÖS][INFO] User with nickname ecenurkarahan logged out from the app
+[05/22/2023 at 07:03 ÖS][INFO] User with nickname :admin succesfully logged into application!
+[05/22/2023 at 07:03 ÖS][INFO] User is redirected to the discover page from his/her profile page.
+[05/22/2023 at 07:03 ÖS][INFO] Admin user is redirected to the shared photo of the other user
+[05/22/2023 at 07:03 ÖS][INFO] User's photo is removed from the whole app by administator.
+[05/22/2023 at 07:03 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/22/2023 at 07:04 ÖS][INFO] Admin user is redirected to the shared photo of the other user
+[05/22/2023 at 07:04 ÖS][INFO] User's photo is removed from the whole app by administator.
+[05/22/2023 at 07:04 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/22/2023 at 07:04 ÖS][INFO] User is redirected to the his/her profile page!
+[05/22/2023 at 07:04 ÖS][INFO] User is redirected to the discover page from his/her profile page.
+[05/22/2023 at 07:04 ÖS][INFO] Admin user is redirected to the shared photo of the other user
+[05/22/2023 at 07:04 ÖS][INFO] User is redirected to the profile page of the user who shared the photo from reviewing photo page!
+[05/22/2023 at 07:04 ÖS][INFO] Admin user is redirected to the shared photo of the other user
+[05/22/2023 at 07:04 ÖS][INFO] User is redirected to the shared photo of the some other user
+[05/22/2023 at 07:04 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/22/2023 at 07:04 ÖS][INFO] User's photo is removed from the whole app by administator.
+[05/22/2023 at 07:04 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/22/2023 at 07:04 ÖS][INFO] Admin user is redirected to the shared photo of the other user
+[05/22/2023 at 07:04 ÖS][INFO] User is redirected to the shared photo of the some other user
+[05/22/2023 at 07:04 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/22/2023 at 07:04 ÖS][INFO] User's photo is removed from the whole app by administator.
+[05/22/2023 at 07:04 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/22/2023 at 07:04 ÖS][INFO] Profile page of the other user is closed and user is redirected to the discover page 
+[05/22/2023 at 07:04 ÖS][INFO] User is redirected to the his/her profile page!
+[05/22/2023 at 07:04 ÖS][INFO] User is redirected to the discover page from his/her profile page.
+[05/22/2023 at 07:16 ÖS][INFO] User with nickname :ecenurkarahan succesfully logged into application!
+[05/22/2023 at 07:16 ÖS][INFO] User is redirected to the discover page from his/her profile page.
+[05/22/2023 at 07:16 ÖS][INFO] User is redirected to the sharing page from discover page!
+[05/22/2023 at 07:17 ÖS][INFO] User is redirected to the shared photo of the other user
+[05/22/2023 at 07:17 ÖS][INFO] User is redirected to the profile page of the user who shared the photo from reviewing photo page!
+[05/22/2023 at 07:17 ÖS][INFO] Profile page of the other user is closed and user is redirected to the discover page 
+[05/22/2023 at 07:17 ÖS][INFO] User is redirected to the his/her profile page!
+[05/22/2023 at 07:17 ÖS][INFO] User is redirected review page of his/her own photo.
+[05/22/2023 at 07:17 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/22/2023 at 07:17 ÖS][INFO] User's profile picture is changed.
+[05/22/2023 at 07:17 ÖS][INFO] User is redirected to the edit info from his/her profile page.
+[05/22/2023 at 07:17 ÖS][INFO] User succesfully changed his/her editable  infos
+[05/22/2023 at 07:18 ÖS][INFO] User is redirected to the discover page from his/her profile page.
+[05/22/2023 at 07:18 ÖS][INFO] User is redirected to the his/her profile page!
+[05/22/2023 at 07:18 ÖS][INFO] User with nickname ecenurkarahan logged out from the app
+[05/22/2023 at 07:18 ÖS][INFO] User with nickname :admin succesfully logged into application!
+[05/22/2023 at 07:18 ÖS][INFO] User is redirected to the discover page from his/her profile page.
+[05/22/2023 at 07:18 ÖS][INFO] Admin user is redirected to the shared photo of the other user
+[05/22/2023 at 07:18 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/22/2023 at 07:19 ÖS][INFO] Admin user is redirected to the shared photo of the other user
+[05/22/2023 at 07:19 ÖS][INFO] User is redirected to the profile page of the user who shared the photo from reviewing photo page!
+[05/22/2023 at 07:19 ÖS][INFO] Admin user is redirected to the shared photo of the other user
+[05/22/2023 at 07:19 ÖS][INFO] User is redirected to the shared photo of the some other user
+[05/22/2023 at 07:19 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/22/2023 at 07:19 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/22/2023 at 07:19 ÖS][INFO] Profile page of the other user is closed and user is redirected to the discover page 
+[05/22/2023 at 07:19 ÖS][INFO] Admin user is redirected to the shared photo of the other user
+[05/22/2023 at 07:19 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/22/2023 at 07:19 ÖS][INFO] User is redirected to the his/her profile page!
+[05/22/2023 at 07:19 ÖS][INFO] User is redirected to the discover page from his/her profile page.
+[05/22/2023 at 07:19 ÖS][INFO] Admin user is redirected to the shared photo of the other user
+[05/22/2023 at 07:19 ÖS][INFO] User is redirected to the profile page of the user who shared the photo from reviewing photo page!
+[05/22/2023 at 07:19 ÖS][INFO] Admin user is redirected to the shared photo of the other user
+[05/22/2023 at 07:19 ÖS][INFO] User is redirected to the shared photo of the some other user
+[05/22/2023 at 07:19 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/22/2023 at 07:19 ÖS][INFO] User's photo is removed from the whole app by administator.
+[05/22/2023 at 07:19 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/22/2023 at 07:19 ÖS][INFO] Profile page of the other user is closed and user is redirected to the discover page 
+[05/23/2023 at 03:54 ÖS][INFO] User with nickname :ecenurkarahan succesfully logged into application!
+[05/23/2023 at 03:54 ÖS][INFO] User is redirected to the edit info from his/her profile page.
+[05/23/2023 at 03:54 ÖS][INFO] User succesfully changed his/her editable  infos
+[05/23/2023 at 03:54 ÖS][INFO] User with nickname ecenurkarahan logged out from the app
+[05/23/2023 at 03:54 ÖS][INFO] User with nickname :ecenurkarahan succesfully logged into application!
+[05/23/2023 at 03:54 ÖS][INFO] User with nickname ecenurkarahan logged out from the app
+[05/23/2023 at 08:04 ÖS][INFO] User with nickname :ecenurkarahan succesfully logged into application!
+[05/23/2023 at 08:04 ÖS][INFO] User is redirected to the add photo page from his/her profile page.
+[05/23/2023 at 08:04 ÖS][INFO] Filter level is setted!
+[05/23/2023 at 08:04 ÖS][INFO] Grayscale filter applied to \cicek34.jpgfile, took: 164.9098ms
+[05/23/2023 at 08:04 ÖS][INFO] Edge detection filter applied to \cicek34.jpgfile, took: 264.3373ms
+[05/23/2023 at 08:04 ÖS][INFO] Image is shared successfully by user with nickname ecenurkarahan
+[05/23/2023 at 08:04 ÖS][INFO] User is redirected to the discover page from his/her profile page.
+[05/23/2023 at 08:04 ÖS][INFO] User is redirected to the shared photo of the other user
+[05/23/2023 at 08:04 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/23/2023 at 08:14 ÖS][INFO] User with nickname :ecenurkarahan succesfully logged into application!
+[05/23/2023 at 08:14 ÖS][INFO] User is redirected to the add photo page from his/her profile page.
+[05/23/2023 at 08:15 ÖS][INFO] Filter level is setted!
+[05/23/2023 at 08:15 ÖS][INFO] Grayscale filter applied to \cicek34.jpgfile, took: 155.49ms
+[05/23/2023 at 08:15 ÖS][INFO] Edge detection filter applied to \cicek34.jpgfile, took: 264.470099ms
+[05/23/2023 at 08:15 ÖS][INFO] Image is shared successfully by user with nickname ecenurkarahan
+[05/23/2023 at 08:15 ÖS][INFO] User is redirected to the discover page from his/her profile page.
+[05/23/2023 at 08:27 ÖS][INFO] User with nickname :ecenurkarahan succesfully logged into application!
+[05/23/2023 at 08:27 ÖS][INFO] User is redirected to the add photo page from his/her profile page.
+[05/23/2023 at 08:27 ÖS][INFO] Filter level is setted!
+[05/23/2023 at 08:27 ÖS][INFO] Blurring filter applied to \cicek34.jpgfile, took: 170.160699ms
+[05/23/2023 at 08:27 ÖS][INFO] Image is shared successfully by user with nickname ecenurkarahan
+[05/23/2023 at 08:27 ÖS][INFO] User is redirected to the discover page from his/her profile page.
+[05/23/2023 at 08:42 ÖS][INFO] User with nickname :ecenurkarahan succesfully logged into application!
+[05/23/2023 at 08:42 ÖS][INFO] User is redirected to the add photo page from his/her profile page.
+[05/23/2023 at 08:42 ÖS][INFO] Filter level is setted!
+[05/23/2023 at 08:42 ÖS][INFO] Edged image is succesfully saved to pc
+[05/23/2023 at 08:42 ÖS][INFO] Blurring filter applied to \cicek34.jpgfile, took: 84.0415ms
+[05/23/2023 at 08:42 ÖS][INFO] sharpened image is succesfully saved to pc
+[05/23/2023 at 08:42 ÖS][INFO] Sharpening filter applied to \cicek34.jpgfile, took: 266.2123ms
+[05/23/2023 at 08:43 ÖS][INFO] User is redirected to the shared photo of the other user
+[05/23/2023 at 08:43 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/23/2023 at 08:43 ÖS][INFO] User is redirected to the sharing page from discover page!
+[05/23/2023 at 08:43 ÖS][INFO] Filter level is setted!
+[05/23/2023 at 08:43 ÖS][INFO] Edged image is succesfully saved to pc
+[05/23/2023 at 08:43 ÖS][INFO] Blurring filter applied to \cicek34.jpgfile, took: 77.0049ms
+[05/23/2023 at 08:43 ÖS][INFO] sharpened image is succesfully saved to pc
+[05/23/2023 at 08:43 ÖS][INFO] Sharpening filter applied to \cicek34.jpgfile, took: 121.7239ms
+[05/23/2023 at 09:37 ÖS][INFO] User with nickname :ecenurkarahan succesfully logged into application!
+[05/23/2023 at 09:37 ÖS][INFO] User is redirected to the add photo page from his/her profile page.
+[05/23/2023 at 09:41 ÖS][INFO] User with nickname :ecenurkarahan succesfully logged into application!
+[05/23/2023 at 09:41 ÖS][INFO] User is redirected to the add photo page from his/her profile page.
+[05/23/2023 at 09:42 ÖS][INFO] Filter level is setted!
+[05/23/2023 at 09:42 ÖS][INFO] Edged image is succesfully saved to pc
+[05/23/2023 at 09:42 ÖS][INFO] Blurring filter applied to \cicek34.jpgfile, took: 154.458ms
+[05/23/2023 at 09:42 ÖS][INFO] User is redirected to the sharing page from discover page!
+[05/23/2023 at 09:42 ÖS][INFO] Filter level is setted!
+[05/23/2023 at 09:43 ÖS][INFO] Edged image is succesfully saved to pc
+[05/23/2023 at 09:43 ÖS][INFO] Blurring filter applied to \cicek34.jpgfile, took: 74.2631ms
+[05/23/2023 at 09:43 ÖS][INFO] sharpened image is succesfully saved to pc
+[05/23/2023 at 09:43 ÖS][INFO] Sharpening filter applied to \cicek34.jpgfile, took: 171.4095ms
+[05/23/2023 at 09:43 ÖS][INFO] User is redirected to the sharing page from discover page!
+[05/23/2023 at 09:43 ÖS][INFO] Filter level is setted!
+[05/23/2023 at 09:43 ÖS][INFO] sharpened image is succesfully saved to pc
+[05/23/2023 at 09:43 ÖS][INFO] Brightness filter applied to \cicek34.jpgfile, took: 69.1807ms
+[05/23/2023 at 09:43 ÖS][INFO] User is redirected to the sharing page from discover page!
+[05/23/2023 at 09:44 ÖS][INFO] Filter level is setted!
+[05/23/2023 at 09:44 ÖS][INFO] sharpened image is succesfully saved to pc
+[05/23/2023 at 09:44 ÖS][INFO] Contrast filter applied to \cicek34.jpgfile, took: 71.646ms
+[05/23/2023 at 09:44 ÖS][INFO] Image is shared successfully by user with nickname ecenurkarahan
+[05/23/2023 at 09:44 ÖS][INFO] User is redirected to the add photo page from his/her profile page.
+[05/23/2023 at 09:44 ÖS][INFO] Filter level is setted!
+[05/23/2023 at 09:44 ÖS][INFO] Grayed image is succesfully saved to pc
+[05/23/2023 at 09:44 ÖS][INFO] Grayscale filter applied to \cicek34.jpgfile, took: 45.1871ms
+[05/23/2023 at 09:44 ÖS][INFO] Image is shared successfully by user with nickname ecenurkarahan
+[05/23/2023 at 09:44 ÖS][INFO] User is redirected to the add photo page from his/her profile page.
+[05/23/2023 at 09:45 ÖS][INFO] Filter level is setted!
+[05/24/2023 at 01:46 ÖS][INFO] User with nickname :ecenurkarahan succesfully logged into application!
+[05/24/2023 at 01:46 ÖS][INFO] User is redirected to the discover page from his/her profile page.
+[05/24/2023 at 01:46 ÖS][INFO] User is redirected to the shared photo of the other user
+[05/24/2023 at 01:46 ÖS][INFO] User is redirected to the profile page of the user who shared the photo from reviewing photo page!
+[05/24/2023 at 01:46 ÖS][INFO] User is redirected to the shared photo of the some other user
+[05/24/2023 at 01:46 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/24/2023 at 01:46 ÖS][INFO] Profile page of the other user is closed and user is redirected to the discover page 
+[05/24/2023 at 01:46 ÖS][INFO] User is redirected to the shared photo of the other user
+[05/24/2023 at 01:46 ÖS][INFO] User is redirected to the profile page of the user who shared the photo from reviewing photo page!
+[05/24/2023 at 01:46 ÖS][INFO] User is redirected to the shared photo of the some other user
+[05/24/2023 at 01:46 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/24/2023 at 01:46 ÖS][INFO] Profile page of the other user is closed and user is redirected to the discover page 
+[05/25/2023 at 03:50 ÖS][INFO] User with nickname :ecenurkarahan succesfully logged into application!
+[05/25/2023 at 03:50 ÖS][INFO] User is redirected to the discover page from his/her profile page.
+[05/25/2023 at 03:51 ÖS][INFO] User is redirected to the shared photo of the other user
+[05/25/2023 at 03:51 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/25/2023 at 03:51 ÖS][INFO] User is redirected to the shared photo of the other user
+[05/25/2023 at 03:51 ÖS][INFO] User is redirected to the profile page of the user who shared the photo from reviewing photo page!
+[05/25/2023 at 03:51 ÖS][INFO] User is redirected to the shared photo of the some other user
+[05/25/2023 at 03:51 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/25/2023 at 03:51 ÖS][INFO] Profile page of the other user is closed and user is redirected to the discover page 
+[05/25/2023 at 03:51 ÖS][INFO] User is redirected to the shared photo of the other user
+[05/25/2023 at 03:51 ÖS][INFO] User is redirected to the profile page of the user who shared the photo from reviewing photo page!
+[05/25/2023 at 03:51 ÖS][INFO] User is redirected to the shared photo of the some other user
+[05/25/2023 at 06:23 ÖS][INFO] User with nickname :ecenurkarahan succesfully logged into application!
+[05/25/2023 at 06:23 ÖS][INFO] User is redirected to the discover page from his/her profile page.
+[05/25/2023 at 06:23 ÖS][INFO] User is redirected to the shared photo of the other user
+[05/25/2023 at 06:23 ÖS][INFO] User is redirected to the profile page of the user who shared the photo from reviewing photo page!
+[05/25/2023 at 06:23 ÖS][INFO] User is redirected to the shared photo of the some other user
+[05/25/2023 at 06:23 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/25/2023 at 06:23 ÖS][INFO] Profile page of the other user is closed and user is redirected to the discover page 
+[05/25/2023 at 06:23 ÖS][INFO] User is redirected to the shared photo of the other user
+[05/25/2023 at 06:23 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/25/2023 at 06:24 ÖS][INFO] User is redirected to the sharing page from discover page!
+[05/25/2023 at 06:24 ÖS][INFO] Filter level is setted!
+[05/25/2023 at 06:24 ÖS][INFO] Grayed image is succesfully saved to pc
+[05/25/2023 at 06:24 ÖS][INFO] Grayscale filter applied to \lale.jpgfile, took: 274.961ms
+[05/25/2023 at 06:24 ÖS][INFO] Edged image is succesfully saved to pc
+[05/25/2023 at 06:24 ÖS][INFO] Edge detection filter applied to \lale.jpgfile, took: 351.8667ms
+[05/25/2023 at 06:24 ÖS][INFO] Image is shared successfully by user with nickname ecenurkarahan
+[05/25/2023 at 06:24 ÖS][INFO] User is redirected to the discover page from his/her profile page.
+[05/25/2023 at 06:24 ÖS][INFO] User is redirected to the shared photo of the other user
+[05/25/2023 at 06:24 ÖS][INFO] User is redirected to the profile page of the user who shared the photo from reviewing photo page!
+[05/25/2023 at 06:25 ÖS][INFO] Profile page of the other user is closed and user is redirected to the discover page 
+[05/26/2023 at 11:33 ÖÖ][INFO] User with nickname :ecenurkarahan succesfully logged into application!
+[05/26/2023 at 11:33 ÖÖ][INFO] User is redirected to the edit info from his/her profile page.
+[05/26/2023 at 11:33 ÖÖ][INFO] User succesfully changed his/her editable  infos
+[05/26/2023 at 11:34 ÖÖ][INFO] User's profile picture is changed.
+[05/26/2023 at 11:34 ÖÖ][INFO] User is redirected review page of his/her own photo.
+[05/26/2023 at 11:34 ÖÖ][INFO] User is redirected to discover page from reviewing photo page!
+[05/26/2023 at 11:34 ÖÖ][INFO] User's photo is removed from his/her profile page.
+[05/26/2023 at 11:34 ÖÖ][INFO] User's photo is removed from his/her profile page.
+[05/26/2023 at 11:34 ÖÖ][INFO] User is redirected to the discover page from his/her profile page.
+[05/26/2023 at 11:34 ÖÖ][INFO] User is redirected to the shared photo of the other user
+[05/26/2023 at 11:34 ÖÖ][INFO] User is redirected to the profile page of the user who shared the photo from reviewing photo page!
+[05/26/2023 at 11:35 ÖÖ][INFO] User is redirected to the shared photo of the some other user
+[05/26/2023 at 11:35 ÖÖ][INFO] User is redirected to the profile page of the user who shared the photo from reviewing photo page!
+[05/26/2023 at 11:35 ÖÖ][INFO] Profile page of the other user is closed and user is redirected to the discover page 
+[05/26/2023 at 11:35 ÖÖ][INFO] Profile page of the other user is closed and user is redirected to the discover page 
+[05/26/2023 at 11:35 ÖÖ][INFO] User is redirected to the his/her profile page!
+[05/26/2023 at 11:35 ÖÖ][INFO] User is redirected to the add photo page from his/her profile page.
+[05/26/2023 at 11:36 ÖÖ][INFO] Filter level is setted!
+[05/26/2023 at 11:36 ÖÖ][INFO] Grayed image is succesfully saved to pc
+[05/26/2023 at 11:36 ÖÖ][INFO] Grayscale filter applied to \cicek34.jpgfile, took: 161.6769ms
+[05/26/2023 at 11:36 ÖÖ][INFO] Edged image is succesfully saved to pc
+[05/26/2023 at 11:36 ÖÖ][INFO] Edge detection filter applied to \cicek34.jpgfile, took: 238.2878ms
+[05/26/2023 at 11:36 ÖÖ][INFO] Image is shared successfully by user with nickname ecenurkarahan
+[05/26/2023 at 11:36 ÖÖ][INFO] User is redirected to the discover page from his/her profile page.
+[05/26/2023 at 11:36 ÖÖ][INFO] User is redirected to the shared photo of the other user
+[05/26/2023 at 11:36 ÖÖ][INFO] User is redirected to discover page from reviewing photo page!
+[05/26/2023 at 11:36 ÖÖ][INFO] User is redirected to the sharing page from discover page!
+[05/26/2023 at 11:36 ÖÖ][INFO] User is redirected to the shared photo of the other user
+[05/26/2023 at 11:36 ÖÖ][INFO] User is redirected to the shared photo of the other user
+[05/26/2023 at 11:36 ÖÖ][INFO] User is redirected to discover page from reviewing photo page!
+[05/26/2023 at 11:36 ÖÖ][INFO] User is redirected to discover page from reviewing photo page!
+[05/26/2023 at 11:37 ÖÖ][INFO] User is redirected to the sharing page from discover page!
+[05/26/2023 at 11:37 ÖÖ][INFO] Filter level is setted!
+[05/26/2023 at 11:37 ÖÖ][INFO] Grayed image is succesfully saved to pc
+[05/26/2023 at 11:37 ÖÖ][INFO] Grayscale filter applied to \bobross1.pngfile, took: 23.1006ms
+[05/26/2023 at 11:37 ÖÖ][INFO] Image is shared successfully by user with nickname ecenurkarahan
+[05/26/2023 at 11:37 ÖÖ][INFO] User is redirected to the add photo page from his/her profile page.
+[05/26/2023 at 11:38 ÖÖ][INFO] Filter level is setted!
+[05/26/2023 at 11:38 ÖÖ][INFO] Edged image is succesfully saved to pc
+[05/26/2023 at 11:38 ÖÖ][INFO] Blurring filter applied to \edgedImage.jpgfile, took: 77.8011ms
+[05/26/2023 at 11:38 ÖÖ][INFO] Image is shared successfully by user with nickname ecenurkarahan
+[05/26/2023 at 11:38 ÖÖ][INFO] User is redirected to the discover page from his/her profile page.
+[05/26/2023 at 11:38 ÖÖ][INFO] User is redirected to the shared photo of the other user
+[05/26/2023 at 11:38 ÖÖ][INFO] User is redirected to discover page from reviewing photo page!
+[05/26/2023 at 11:38 ÖÖ][INFO] User is redirected to the sharing page from discover page!
+[05/26/2023 at 11:39 ÖÖ][INFO] Filter level is setted!
+[05/26/2023 at 11:39 ÖÖ][INFO] Edged image is succesfully saved to pc
+[05/26/2023 at 11:39 ÖÖ][INFO] Blurring filter applied to \lale.jpgfile, took: 15.2154ms
+[05/26/2023 at 11:39 ÖÖ][INFO] sharpened image is succesfully saved to pc
+[05/26/2023 at 11:39 ÖÖ][INFO] Sharpening filter applied to \lale.jpgfile, took: 46.7791ms
+[05/26/2023 at 11:39 ÖÖ][INFO] Image is shared successfully by user with nickname ecenurkarahan
+[05/26/2023 at 11:39 ÖÖ][INFO] User is redirected to the add photo page from his/her profile page.
+[05/26/2023 at 11:39 ÖÖ][INFO] Filter level is setted!
+[05/26/2023 at 11:39 ÖÖ][INFO] sharpened image is succesfully saved to pc
+[05/26/2023 at 11:39 ÖÖ][INFO] Brightness filter applied to \hanımeli.jpgfile, took: 50.621ms
+[05/26/2023 at 11:39 ÖÖ][INFO] Image is shared successfully by user with nickname ecenurkarahan
+[05/26/2023 at 11:39 ÖÖ][INFO] User is redirected to the add photo page from his/her profile page.
+[05/26/2023 at 11:40 ÖÖ][INFO] Filter level is setted!
+[05/26/2023 at 11:40 ÖÖ][INFO] sharpened image is succesfully saved to pc
+[05/26/2023 at 11:40 ÖÖ][INFO] Contrast filter applied to \sarıçicek.jpgfile, took: 18.7789ms
+[05/26/2023 at 11:40 ÖÖ][INFO] Image is shared successfully by user with nickname ecenurkarahan
+[05/26/2023 at 11:40 ÖÖ][INFO] User is redirected to the add photo page from his/her profile page.
+[05/26/2023 at 11:40 ÖÖ][INFO] User is redirected to the his/her profile page!
+[05/26/2023 at 11:40 ÖÖ][INFO] User with nickname ecenurkarahan logged out from the app
+[05/26/2023 at 11:41 ÖÖ][INFO] User with nickname :admin succesfully logged into application!
+[05/26/2023 at 11:41 ÖÖ][INFO] User is redirected to the discover page from his/her profile page.
+[05/26/2023 at 11:41 ÖÖ][INFO] Admin user is redirected to the shared photo of the other user
+[05/26/2023 at 11:41 ÖÖ][INFO] User's photo is removed from the whole app by administator.
+[05/26/2023 at 11:41 ÖÖ][INFO] Admin is redirected to discover page from reviewing photo page!
+[05/26/2023 at 11:41 ÖÖ][INFO] User is redirected to the his/her profile page!
+[05/26/2023 at 11:42 ÖÖ][INFO] User is redirected to the discover page from his/her profile page.
+[05/26/2023 at 11:42 ÖÖ][INFO] Admin user is redirected to the shared photo of the other user
+[05/26/2023 at 11:42 ÖÖ][INFO] Admin is redirected to the profile page of the user who shared the photo from reviewing photo page!
+[05/26/2023 at 11:42 ÖÖ][INFO] Admin user is redirected to the shared photo of the other user
+[05/26/2023 at 11:42 ÖÖ][INFO] User's photo is removed from the whole app by administator.
+[05/26/2023 at 11:42 ÖÖ][INFO] Admin is redirected to discover page from reviewing photo page!
+[05/26/2023 at 11:42 ÖÖ][INFO] Profile page of the other user is closed and user is redirected to the discover page 
+[05/26/2023 at 11:42 ÖÖ][INFO] Admin user is redirected to the shared photo of the other user
+[05/26/2023 at 11:42 ÖÖ][INFO] Admin is redirected to the profile page of the user who shared the photo from reviewing photo page!
+[05/26/2023 at 11:42 ÖÖ][INFO] Profile page of the other user is closed and user is redirected to the discover page 
+[05/26/2023 at 11:42 ÖÖ][INFO] Admin user is redirected to the shared photo of the other user
+[05/26/2023 at 11:42 ÖÖ][INFO] Admin is redirected to discover page from reviewing photo page!
+[05/26/2023 at 11:42 ÖÖ][INFO] Admin user is redirected to the shared photo of the other user
+[05/26/2023 at 11:42 ÖÖ][INFO] User's photo is removed from the whole app by administator.
+[05/26/2023 at 11:42 ÖÖ][INFO] Admin is redirected to discover page from reviewing photo page!
+[05/26/2023 at 11:42 ÖÖ][INFO] User is redirected to the his/her profile page!
+[05/26/2023 at 11:43 ÖÖ][INFO] User is redirected to the discover page from his/her profile page.
+[05/26/2023 at 11:43 ÖÖ][INFO] Admin user is redirected to the shared photo of the other user
+[05/26/2023 at 11:43 ÖÖ][INFO] Admin is redirected to discover page from reviewing photo page!
+[05/26/2023 at 11:43 ÖÖ][INFO] Admin user is redirected to the shared photo of the other user
+[05/26/2023 at 11:43 ÖÖ][INFO] Admin is redirected to the profile page of the user who shared the photo from reviewing photo page!
+[05/26/2023 at 11:43 ÖÖ][INFO] Admin user is redirected to the shared photo of the other user
+[05/26/2023 at 11:43 ÖÖ][INFO] User's photo is removed from the whole app by administator.
+[05/26/2023 at 11:43 ÖÖ][INFO] Admin is redirected to discover page from reviewing photo page!
+[05/26/2023 at 11:43 ÖÖ][INFO] Profile page of the other user is closed and user is redirected to the discover page 
+[05/26/2023 at 11:43 ÖÖ][INFO] Admin user is redirected to the shared photo of the other user
+[05/26/2023 at 11:43 ÖÖ][INFO] Admin is redirected to the profile page of the user who shared the photo from reviewing photo page!
+[05/26/2023 at 11:43 ÖÖ][INFO] Profile page of the other user is closed and user is redirected to the discover page 
+[05/26/2023 at 11:44 ÖÖ][INFO] Admin user is redirected to the shared photo of the other user
+[05/26/2023 at 11:44 ÖÖ][INFO] Admin is redirected to the profile page of the user who shared the photo from reviewing photo page!
+[05/26/2023 at 11:44 ÖÖ][INFO] Admin user is redirected to the shared photo of the other user
+[05/26/2023 at 11:44 ÖÖ][INFO] User's photo is removed from the whole app by administator.
+[05/26/2023 at 11:44 ÖÖ][INFO] Admin is redirected to discover page from reviewing photo page!
+[05/26/2023 at 11:44 ÖÖ][INFO] Profile page of the other user is closed and user is redirected to the discover page 
+[05/26/2023 at 11:44 ÖÖ][INFO] User is redirected to the his/her profile page!
+[05/26/2023 at 11:44 ÖÖ][INFO] User is redirected to the discover page from his/her profile page.
+[05/26/2023 at 11:44 ÖÖ][INFO] User is redirected to the his/her profile page!
+[05/26/2023 at 11:44 ÖÖ][INFO] User with nickname admin logged out from the app
+[05/26/2023 at 11:46 ÖÖ][INFO] HobbyList tier user is created succesfully!
+[05/26/2023 at 11:46 ÖÖ][INFO] User is redirected to the discover page from his/her profile page.
+[05/26/2023 at 11:46 ÖÖ][INFO] User is redirected to the his/her profile page!
+[05/26/2023 at 11:46 ÖÖ][INFO] User is redirected to the add photo page from his/her profile page.
+[05/29/2023 at 03:56 ÖS][INFO] Professional tier user is created succesfully!
+[05/29/2023 at 03:56 ÖS][INFO] User's profile picture is changed.
+[05/29/2023 at 03:56 ÖS][INFO] User is redirected to the discover page from his/her profile page.
+[05/29/2023 at 03:57 ÖS][INFO] User is redirected to the shared photo of the other user
+[05/29/2023 at 03:57 ÖS][INFO] User is redirected to the profile page of the user who shared the photo from reviewing photo page!
+[05/29/2023 at 03:57 ÖS][INFO] Profile page of the other user is closed and user is redirected to the discover page 
+[05/29/2023 at 03:57 ÖS][INFO] User is redirected to the shared photo of the other user
+[05/29/2023 at 03:57 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/29/2023 at 03:57 ÖS][INFO] User is redirected to the shared photo of the other user
+[05/29/2023 at 03:57 ÖS][INFO] User is redirected to discover page from reviewing photo page!
+[05/29/2023 at 03:57 ÖS][INFO] User is redirected to the his/her profile page!
+[05/29/2023 at 03:57 ÖS][INFO] User is redirected to the discover page from his/her profile page.
+[05/29/2023 at 03:57 ÖS][INFO] User is redirected to the sharing page from discover page!
+[05/29/2023 at 03:58 ÖS][INFO] Filter level is setted!
+[05/29/2023 at 03:58 ÖS][INFO] Edged image is succesfully saved to pc
+[05/29/2023 at 03:58 ÖS][INFO] Blurring filter applied to \sümbül.jpgfile, took: 309.864ms
+[05/29/2023 at 03:58 ÖS][INFO] Image is shared successfully by user with nickname bince
+[05/29/2023 at 03:58 ÖS][INFO] User is redirected to the discover page from his/her profile page.
+[05/29/2023 at 03:58 ÖS][INFO] User is redirected to the shared photo of the other user
+[05/29/2023 at 03:58 ÖS][INFO] User is redirected to the profile page of the user who shared the photo from reviewing photo page!
+[05/29/2023 at 03:59 ÖS][INFO] Profile page of the other user is closed and user is redirected to the discover page 
+[05/29/2023 at 03:59 ÖS][INFO] User is redirected to the his/her profile page!
+[05/29/2023 at 03:59 ÖS][INFO] User's photo is removed from his/her profile page.
+[05/29/2023 at 03:59 ÖS][INFO] User is redirected to the discover page from his/her profile page.
